@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>- 🎓 CS Student @ IIIT Delhi<br>- 💡 Interested in DSA, Software Development & System Design<br>- 🧠 Solved 220+ DSA problems<br>- 🚀 Built a Java University ERP System<br>- 🌱 Learning Web Development & Building New Projects<br>- ⚡ Always trying to improve problem-solving and development skills
+## 👨‍💻 About Me<br><br>- 🎓 CS Student @ IIIT Delhi<br>- 💡 Interested in DSA, & Software Development<br>- 🧠 Solved 230+ DSA problems<br>- 🚀 Built a Java University ERP System<br>- 🌱 Learning Web Development & Building New Projects<br>- ⚡ Always trying to improve problem-solving and development skills
 
 
 ## 🌐 Socials:
